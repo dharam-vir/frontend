@@ -1,0 +1,3 @@
+[22-Jan-2021 12:39:55 UTC] PHP Fatal error:  Trait 'App\HasFactory' not found in /home/s5gkuqzs7bf6/public_html/metromirchi.com/app/Category.php on line 9
+[22-Jan-2021 12:41:52 UTC] PHP Fatal error:  Trait 'Illnminate\Database\Eloquent\Factories\HasFactory' not found in /home/s5gkuqzs7bf6/public_html/metromirchi.com/app/Category.php on line 10
+[22-Jan-2021 12:42:06 UTC] PHP Fatal error:  Trait 'Illnminate\Database\Eloquent\Factories\HasFactory' not found in /home/s5gkuqzs7bf6/public_html/metromirchi.com/app/Category.php on line 10
